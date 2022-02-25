@@ -6,5 +6,5 @@ The purpose here was to summarize temperature statistics for June and December. 
 
 ## Results
 
-<img width="141" alt="june_temps" src="https://user-images.githubusercontent.com/95881678/155637838-f66b66df-cb29-4e5c-8a77-43837e0394c3.png"><img width="133" alt="dec_temps" src="https://user-images.githubusercontent.com/95881678/155637892-d1a77b19-f634-4a3b-819b-8ff1eec67256.png">
+<img width="141" alt="june_temps" src="https://user-images.githubusercontent.com/95881678/155637838-f66b66df-cb29-4e5c-8a77-43837e0394c3.png">  <img width="133" alt="dec_temps" src="https://user-images.githubusercontent.com/95881678/155637892-d1a77b19-f634-4a3b-819b-8ff1eec67256.png">
 

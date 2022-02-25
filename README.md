@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose here was to summarize temperature statistics for June and December. Utilizing weather data from an SQLite database, I employed Numpy, Pandas, and SQLAlchemy with Jupyter Notebook to wrangle the requested information. This statistical data will help investors decide on opening an ice cream and surf shop in the beautiful state of Hawai'i.
+The purpose here was to summarize temperature statistics for June and December. Utilizing weather data from a SQLite database, I employed Numpy, Pandas, and SQLAlchemy with Jupyter Notebook to wrangle the requested information. This statistical data will help investors decide on opening an ice cream and surf shop in the beautiful state of Hawai'i.
 
 ## Results
 

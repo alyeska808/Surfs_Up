@@ -16,4 +16,4 @@ The purpose here was to summarize temperature statistics for June and December. 
 
 ## Summary 
 
-Comparing the two different months with these descriptive statistics suggests the average temperatures are somewhat similar between June and December. An additional query I would perform to gather more weather data for these months would be precipitation levels. The amount of rainfall would impact surfing and ice cream consumption. I would also query indicators of extreme weather events. It would be interesting to note if hurricanes and other inclement weather events were more likely to occur in June or December. 
+Comparing the two different months with these descriptive statistics suggests the average temperatures are somewhat similar between June and December. An additional query I would perform to gather more weather data for these months would be precipitation levels. The amount of rainfall would impact surfing and ice cream consumption. I would also query indicators of extreme weather events. It would be interesting to note if hurricanes and other inclement weather phenomena were more likely to occur in June or December.
